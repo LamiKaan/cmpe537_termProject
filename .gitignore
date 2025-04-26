@@ -33,7 +33,7 @@ Code/ProjectData/*
 Code/ProjectData
 Code/tfvaagen/
 Code/venv/
-Code/Datasets/*
+Code/Datasets/**
 # But keep the subdirectory itself
 !ProducedData/.gitkeep
 !Code/tfvaagen/.gitkeep
