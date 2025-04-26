@@ -33,15 +33,15 @@ Code/ProjectData/*
 Code/ProjectData
 Code/tfvaagen/
 Code/venv/
-Code/Datasets/
+Code/Datasets/*
 # But keep the subdirectory itself
 !ProducedData/.gitkeep
 !Code/Datasets/.gitkeep
 !Code/tfvaagen/.gitkeep
 !Poster.pdf
-!Datasets/CUB_Caltech/.gitkeep
-!Datasets/CUB_Kaggle/.gitkeep
-!Datasets/CUB_Paper/.gitkeep
+!Code/Datasets/CUB_Caltech/.gitkeep
+!Code/Datasets/CUB_Kaggle/.gitkeep
+!Code/Datasets/CUB_Paper/.gitkeep
 # Ignore everything inside quickdraw_subset_np
 models/
 notebooks/
