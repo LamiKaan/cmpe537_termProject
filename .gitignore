@@ -36,7 +36,6 @@ Code/venv/
 Code/Datasets/**
 # But keep the subdirectory itself
 !ProducedData/.gitkeep
-!Code/tfvaagen/.gitkeep
 !Poster.pdf
 !Code/Datasets/.gitkeep
 !Code/Datasets/**/.gitkeep
