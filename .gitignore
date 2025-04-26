@@ -29,7 +29,8 @@ Data/TurCoins/test/*
 ProducedData/*
 Papers/
 xlsa17/
-Code/Project_Data/*
+Code/ProjectData/*
+Code/ProjectData
 Code/tfvaagen/
 Code/venv/
 # But keep the subdirectory itself
